@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom'
 const Header = () => {
     return (
         <header>
+            <h1>PokeApi</h1>
             <nav>
                 <ul>
                     <li><Link to="/">Inicio</Link></li>
